@@ -1,0 +1,8 @@
+pytesseract
+pdf2image
+pymupdf
+pandas
+opencv-python
+pdfplumber
+google-generativeai
+ipywidgets
