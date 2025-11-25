@@ -8,11 +8,6 @@ Original file is located at
 """
 
 # @title
-# ==== INSTALAR DEPENDENCIAS ====
-!apt-get update
-!apt-get install -y tesseract-ocr
-!apt-get install -y poppler-utils
-!pip install pytesseract pdf2image pymupdf pandas opencv-python pdfplumber google-generativeai ipywidgets --quiet
 
 
 # ==== SUBIR PDFs DESDE TU COMPUTADOR ====
